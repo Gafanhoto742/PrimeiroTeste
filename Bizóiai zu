@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AlgoLegal</title>
+    <style>
+        body {
+            background-color: black;
+            color: rgb(255, 115, 0);
+            font: 20pt arial;
+        }
+        
+        h1 {
+            font: 20pt icon;
+            color: rgb(150, 0, 0);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>NãoTeEnrugueCoroVelhoPoisTeQueroParaTambor</h1>
+    <hr>
+    <p>Tô muito feliz, pois agora posso passar links.</p>
+    <p>́ɐןO</p>
+</body>
+
+</html>
